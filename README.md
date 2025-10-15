@@ -23,17 +23,33 @@ This repository contains the project work for COMP5425 course.
 git clone https://github.com/666junyichen/COMP5425.git
 cd COMP5425
 
-# Add installation instructions here
+# Install in development mode
+pip install -e .
+
+# Or install with development dependencies
+pip install -e ".[dev]"
 ```
 
 ### Usage
-Add instructions on how to run/use the project here.
+```bash
+# Run the main application
+python3 src/main.py
+
+# Or after installation
+python3 -m src.main
+```
 
 ## Documentation
 Additional documentation can be found in the `docs/` directory.
 
 ## Testing
-Add information about how to run tests here.
+```bash
+# Run tests with unittest
+python3 -m unittest discover tests/ -v
+
+# Or with pytest (if installed)
+pytest tests/ -v
+```
 
 ## Contributing
 Guidelines for contributing to this project.

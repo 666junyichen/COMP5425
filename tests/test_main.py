@@ -5,12 +5,6 @@ This module contains unit tests for the main module.
 """
 
 import unittest
-import sys
-import os
-
-# Add parent directory to path to import src modules
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 from src.main import main
 
 
