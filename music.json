@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Nocturne Samurai - Autumnal Smile",
+        "artist": "Nocturne Samurai",
+        "emotion": "Sad",
+        "valence": 0.25,
+        "energy": 0.35,
+        "tempo": 75,
+        "filepath": "audio/Nocturne Samurai - Autumnal Smile.mp3",
+        "cover": "album/autumn_smile.jpg"
+    },
+    {
+        "title": "Roie Shpigler - Phantom Pain",
+        "artist": "Roie Shpigler",
+        "emotion": "Sad",
+        "valence": 0.20,
+        "energy": 0.42,
+        "tempo": 68,
+        "filepath": "audio/Roie Shpigler - Phantom Pain.mp3",
+        "cover": "album/phantom_pain.jpg"
+    },
+    {
+        "title": "Roie Shpigler - Winter Lullaby",
+        "artist": "Roie Shpigler",
+        "emotion": "Sad",
+        "valence": 0.22,
+        "energy": 0.38,
+        "tempo": 80,
+        "filepath": "audio/Roie Shpigler - Winter Lullaby.mp3",
+        "cover": "album/winter_lullaby.jpg"
+    },
+    {
+        "title": "Sparrow Tree - Shimmering Light",
+        "artist": "Sparrow Tree",
+        "emotion": "Sad",
+        "valence": 0.28,
+        "energy": 0.48,
+        "tempo": 85,
+        "filepath": "audio/Sparrow Tree - Shimmering Light.mp3",
+        "cover": "album/shimmering_light.avif"
+    },
+    {
+        "title": "Tommy H Brandon - Distant Candle Light",
+        "artist": "Tommy H Brandon",
+        "emotion": "Sad",
+        "valence": 0.26,
+        "energy": 0.41,
+        "tempo": 77,
+        "filepath": "audio/Tommy H Brandon - Distant Candle Light.mp3",
+        "cover": "album/distant_candle_light.jpeg"
+    },
+    {
+        "title": "Bobby Coxx And The Righteous - Can Ya Feel it",
+        "artist": "Bobby Coxx And The Righteous",
+        "emotion": "Happy",
+        "valence": 0.91,
+        "energy": 0.83,
+        "tempo": 122,
+        "filepath": "audio/Bobby Coxx And The Righteous - Can Ya Feel it.mp3",
+        "cover": "album/can_ya_feel_it.avif"
+    },
+    {
+        "title": "Danny Shields - OH MY",
+        "artist": "Danny Shields",
+        "emotion": "Happy",
+        "valence": 0.87,
+        "energy": 0.76,
+        "tempo": 115,
+        "filepath": "audio/Danny Shields - OH MY.mp3",
+        "cover": "album/oh_my.jpg"
+    },
+    {
+        "title": "Devon May - Funk to Funk",
+        "artist": "Devon May",
+        "emotion": "Happy",
+        "valence": 0.89,
+        "energy": 0.79,
+        "tempo": 128,
+        "filepath": "audio/Devon May - Funk to Funk.mp3",
+        "cover": "album/funk_to_funk.avif"
+    },
+    {
+        "title": "Gil Kita - Silly Lovebirds",
+        "artist": "Gil Kita",
+        "emotion": "Happy",
+        "valence": 0.85,
+        "energy": 0.74,
+        "tempo": 118,
+        "filepath": "audio/Gil Kita - Silly Lovebirds.mp3",
+        "cover": "album/silly_lovebirds.jpg"
+    },
+    {
+        "title": "Sunny Fruit - No Gloves",
+        "artist": "Sunny Fruit",
+        "emotion": "Happy",
+        "valence": 0.92,
+        "energy": 0.81,
+        "tempo": 125,
+        "filepath": "audio/Sunny Fruit - No Gloves.mp3",
+        "cover": "album/no_gloves.avif"
+    },
+    {
+        "title": "Adi Goldstein - Tear Away",
+        "artist": "Adi Goldstein",
+        "emotion": "Calm",
+        "valence": 0.65,
+        "energy": 0.30,
+        "tempo": 72,
+        "filepath": "audio/Adi Goldstein - Tear Away.mp3",
+        "cover": "album/tear_away.jpeg"
+    },
+    {
+        "title": "Dor-c - Sunshine Rider - No Backing Vocals",
+        "artist": "Dor-c",
+        "emotion": "Calm",
+        "valence": 0.70,
+        "energy": 0.36,
+        "tempo": 90,
+        "filepath": "audio/Dor-c - Sunshine Rider - No Backing Vocals.mp3",
+        "cover": "album/sunshine_rider.avif"
+    },
+    {
+        "title": "Flint - Experience Sonder - Instrumental Version",
+        "artist": "Flint",
+        "emotion": "Calm",
+        "valence": 0.68,
+        "energy": 0.29,
+        "tempo": 80,
+        "filepath": "audio/Flint - Experience Sonder - Instrumental Version.mp3",
+        "cover": "album/experience_sonder.avif"
+    },
+    {
+        "title": "Roie Shpigler - Into the Light - Instrumental Version",
+        "artist": "Roie Shpigler",
+        "emotion": "Calm",
+        "valence": 0.72,
+        "energy": 0.33,
+        "tempo": 78,
+        "filepath": "audio/Roie Shpigler - Into the Light - Instrumental Version.mp3",
+        "cover": "album/into_the_light.jpg"
+    },
+    {
+        "title": "Simon Berggren Ballads - Weekdays in Blue",
+        "artist": "Simon Berggren Ballads",
+        "emotion": "Calm",
+        "valence": 0.66,
+        "energy": 0.27,
+        "tempo": 70,
+        "filepath": "audio/Simon Berggren Ballads - Weekdays in Blue.mp3",
+        "cover": "album/weekday_in_blue.jpeg"
+    }
+]
